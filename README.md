@@ -33,6 +33,11 @@ I build robust web applications and open-source tools. I love clean architecture
 
 **🇬🇧 English**
 <!-- BLOG-POST-LIST-EN:START -->
+- [Learning every day: tech watch without drowning](https://darwinonline.github.io/en/blog/learning-every-day-tech-watch-without-drowning)
+- [Developer in the age of AI: between vertigo and lucidity](https://darwinonline.github.io/en/blog/developer-in-the-age-of-ai-between-vertigo-and-lucidity)
+- [Stephen King and debugging](https://darwinonline.github.io/en/blog/stephen-king-and-debugging)
+- [When my stamp collecting hobby meets AI: the Mancolister experience](https://darwinonline.github.io/en/blog/the-mancolister-experience)
+- [What being a developer has taught me](https://darwinonline.github.io/en/blog/what-being-a-developer-has-taught-me)
 <!-- BLOG-POST-LIST-EN:END -->
 
 ➡️ [More on my blog](https://darwinonline.github.io/)

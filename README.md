@@ -24,11 +24,11 @@ I build robust web applications and open-source tools. I love clean architecture
 
 **🇫🇷 Français**
 <!-- BLOG-POST-LIST-FR:START -->
+- [Le vrai coût de l&#39;IA : quand la facture arrivera](https://darwinonline.github.io/fr/blog/le-vrai-cout-de-l-ia-quand-la-facture-arrivera)
 - [Apprendre tous les jours : la veille techno sans se noyer](https://darwinonline.github.io/fr/blog/apprendre-tous-les-jours-la-veille-techno-sans-se-noyer)
 - [Développeur à l&#39;ère de l&#39;IA : entre vertige et lucidité](https://darwinonline.github.io/fr/blog/developpeur-a-l-ere-de-l-ia-entre-vertige-et-lucidite)
 - [Stephen King et le debugging](https://darwinonline.github.io/fr/blog/stephen-king-et-le-debugging)
 - [Quand ma passion pour les timbres rencontre l&#39;IA : l&#39;expérience Mancolister](https://darwinonline.github.io/fr/blog/l-experience-mancolister)
-- [Ce que le métier de développeur m&#39;a appris](https://darwinonline.github.io/fr/blog/ce-que-le-metier-de-developpeur-ma-appris)
 <!-- BLOG-POST-LIST-FR:END -->
 
 **🇬🇧 English**

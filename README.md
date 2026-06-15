@@ -33,11 +33,11 @@ I build robust web applications and open-source tools. I love clean architecture
 
 **🇬🇧 English**
 <!-- BLOG-POST-LIST-EN:START -->
+- [Red Lines](https://darwinonline.github.io/en/blog/ai-versus-the-state-who-sets-the-limits)
 - [SOLID: autopsy of a boy band](https://darwinonline.github.io/en/blog/solid-autopsy-of-a-boy-band)
 - [DRY, KISS, YAGNI: three acronyms, three traps](https://darwinonline.github.io/en/blog/dry-kiss-yagni-three-acronyms-three-traps)
 - [The comedy of mastery](https://darwinonline.github.io/en/blog/the-comedy-of-mastery)
 - [When everyone thinks they can do your job](https://darwinonline.github.io/en/blog/when-everyone-thinks-they-can-do-your-job)
-- [My job explained to my mom](https://darwinonline.github.io/en/blog/my-job-explained-to-my-mom)
 <!-- BLOG-POST-LIST-EN:END -->
 
 ➡️ [More on my blog](https://darwinonline.github.io/)

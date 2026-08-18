@@ -24,11 +24,11 @@ I build robust web applications and open-source tools. I love clean architecture
 
 **🇫🇷 Français**
 <!-- BLOG-POST-LIST-FR:START -->
+- [Les 3 lois de la productivité en développement](https://darwinonline.github.io/fr/blog/les-3-lois-de-la-productivite-en-developpement)
 - [Lignes rouges](https://darwinonline.github.io/fr/blog/ia-contre-etat-qui-fixe-les-limites)
 - [SOLID : autopsie d&#39;un boys band](https://darwinonline.github.io/fr/blog/solid-autopsie-d-un-boys-band)
 - [DRY, KISS, YAGNI : trois acronymes, trois pièges](https://darwinonline.github.io/fr/blog/dry-kiss-yagni-trois-acronymes-trois-pieges)
 - [La comédie de la maîtrise](https://darwinonline.github.io/fr/blog/la-comedie-de-la-maitrise)
-- [Quand tout le monde sait faire ton métier](https://darwinonline.github.io/fr/blog/quand-tout-le-monde-sait-faire-ton-metier)
 <!-- BLOG-POST-LIST-FR:END -->
 
 **🇬🇧 English**
